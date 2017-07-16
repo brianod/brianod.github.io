@@ -7,7 +7,10 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 
 ### Tableau Software
 
-Tableau Software <img style="width: 120px; height: 24px; vertical-align:middle;" src="https://connect.liveramp.com/public/destinations/show_logo/4009.png" alt="placeholder" title="Medium example image">
+<div>
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
