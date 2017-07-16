@@ -5,11 +5,10 @@ title: Experience
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Tableau Software
 
 <div>
-    <p style="float: left;"><img src="https://connect.liveramp.com/public/destinations/show_logo/4009.png" height="24px" width="120px" border="1px"></p>
-    <p>Tableau Software</p>
+    <p style="float: left;"><img src="https://connect.liveramp.com/public/destinations/show_logo/4009.png" height="49px" width="240px"></p>
+    <h2>Tableau Software</h2>
 </div> <hr style="clear:both;">
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
