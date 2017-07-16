@@ -7,7 +7,7 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 
 
 <div>
-    <p style="float: left;"><img src="https://connect.liveramp.com/public/destinations/show_logo/4009.png" height="49px" width="240px"></p>
+    <p style="float: right;"><img src="https://connect.liveramp.com/public/destinations/show_logo/4009.png" height="49px" width="240px"></p>
     <h2>Tableau Software</h2>
 </div> <hr style="clear:both;">
 
