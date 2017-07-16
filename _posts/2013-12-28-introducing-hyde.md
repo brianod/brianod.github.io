@@ -8,7 +8,7 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 ### Tableau Software
 
 <div>
-    <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
     <p>Tableau Software</p>
 </div> <hr style="clear:both;">
 
