@@ -8,13 +8,13 @@ I have professional experience writing performance related C++ through my intern
 
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
 <h2>Tableau Software | January-April 2018</h2>
-<h4>Mobile Team, Palo Alto, California</h4>
+<h4>Mobile Team in Palo Alto, California</h4>
 * Re-architecting the Tableau Mobile offerings using React Native.
 <hr style="clear:both;">
 
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
 <h2>Tableau Software | May-August 2017</h2>
-<h4>VizQL Server Team, Vancouver, Brtish Columbia</h4>
+<h4>VizQL Server Team in Vancouver, Brtish Columbia</h4>
 * Optimized cache speeds by implementing caches using Protocol Buffers.
 * Shipped code that lead to an average 92.2% reduction in cache size.    
 * Authored unit tests for automated testing.
