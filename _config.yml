@@ -6,14 +6,14 @@ permalink:        pretty
 
 # Setup
 title:            Brian Odumo
-tagline:          'A Jekyll theme'
-description:      'A UWaterloo CS student with internship experience writing software.'
+tagline:          'A portfolio website'
+description:      'A University of Waterloo CS student with professional software engineering experience.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Brian Odumo'
+  url:            https://twitter.com/brianodumo
 
 paginate:         5
 
