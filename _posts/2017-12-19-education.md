@@ -12,6 +12,15 @@ title: Education
 * Computer Science requirements include: 
   * Designing Functional Programs (Racket/Scheme) * Elementary Algorithm Design and Data Abstraction (C)
   * Objected Oriented Programming (C++) * Computer Architecture and Design (MIPS)
-  * Logic and Computation, Data Structures and Data Management * Foundations of Sequential Programs * Algorithms
+  * Logic and Computation * Data Structures and Data Management 
+  * Foundations of Sequential Programs * Algorithms
   * Operating Systems
+  <ul>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+    <li>D</li>
+    <li>E</li>
+</ul>
+
 <hr style="clear:both;">
