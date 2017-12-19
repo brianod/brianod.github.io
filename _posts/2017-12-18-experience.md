@@ -16,7 +16,7 @@ I have professional experience writing performance related C++ through my intern
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
 <h2>Tableau Software | May-August 2017</h2>
 <h3>Software Engineer Intern</h3>
-<h4>VizQL Server Team in Vancouver, Brtish Columbia</h4>
+<h4>VizQL Server Team in Vancouver, British Columbia</h4>
 * Optimized cache speeds by implementing caches using Protocol Buffers.
 * Shipped code that lead to an average 92.2% reduction in cache size.    
 * Authored unit tests for automated testing.
