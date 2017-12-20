@@ -10,7 +10,7 @@ I have professional experience writing performance related C++ through my intern
 <h2>Tableau Software | January-April 2018</h2>
 <h3>Software Engineer Intern</h3>
 <h4>Mobile Team in Palo Alto, California</h4>
-* Re-architecting the Tableau Mobile offerings using React Native.
+* Rearchitecting the Tableau Mobile offerings using React Native.
 <hr style="clear:both;">
 
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
