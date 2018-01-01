@@ -10,7 +10,9 @@ I have professional experience writing performance related C++ through my intern
 <h2>Tableau Software | January-April 2018</h2>
 <h3>Software Engineer Intern</h3>
 <h4>Mobile Team in Palo Alto, California</h4>
-* Rearchitecting the Tableau Mobile offerings using React Native.
+* Analyze software requirements, design software components, implement those components in code (with documentation) using various programming languages and tools, review peers' work, and write and execute tests to validate those software components and products. 
+* Learn about data visualization and techniques to present that data to customers in Tableau's software products.
+* **Skills Used**: Javascript, Typescript, Objective-C, Java, C#, and various software development tools and frameworks such as iOS, Android, ReactNative, jest, Visual Studio, Xamarin
 <hr style="clear:both;">
 
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
