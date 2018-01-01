@@ -22,5 +22,5 @@ I have professional experience writing C++ and developing on mobile platforms th
 * Optimized cache speeds by implementing caches using Protocol Buffers.
 * Shipped code that led to an average 92.2% reduction in cache size.    
 * Authored unit tests for automated testing.
-* **Tools Used:** C++, Visual Studio Debugger, Windows Performance Recorder/Analyzer, Perforce
+* **Skills Used:** C++, Visual Studio Debugger, Windows Performance Recorder/Analyzer, Perforce
 <hr style="clear:both;">
