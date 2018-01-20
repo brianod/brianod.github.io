@@ -3,16 +3,86 @@ layout: default
 title: Home
 ---
 <div class="posts">
-  {% for post in paginator.posts %}
+  
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+      <a href="/2017/12/19/education/">
+        Education
       </a>
     </h1>
 
 
-    {{ post.content }}
+    <p style="float: right;"><img src="../public/waterloo.png" height="100px" width="232px"></p>
+<h2>University of Waterloo, Bachelor of Computer Science | 2015-2019</h2>
+<ul>
+  <li>Canada’s #1 Computer Science program, and a Top 20 Computer Science program globally according to US News’ Global University Subject-area Rankings 2016.</li>
+</ul>
+
+<hr style="clear:both;">
+
   </div>
-  {% endfor %}
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2017/12/18/experience/">
+        Experience
+      </a>
+    </h1>
+
+
+    <p>I have professional experience writing C++ and developing on mobile platforms through my internship experience and personal projects.</p>
+
+<p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
+<h2>Tableau Software | January-April 2018</h2>
+<h3>Software Engineer Intern</h3>
+<h4>Mobile Team in Palo Alto, California</h4>
+<ul>
+  <li>Analyze software requirements, design software components, implement those components in code (with documentation) using various programming languages and tools, review peers’ work, and write and execute tests to validate those software components and products.</li>
+  <li>Learn about data visualization and techniques to present that data to customers in Tableau’s software products.</li>
+  <li><strong>Skills Used:</strong> Javascript, Typescript, Objective-C, Java, C#, and various software development tools and frameworks such as iOS, Android, React Native, jest, Visual Studio, Xamarin</li>
+</ul>
+<hr style="clear:both;">
+
+<p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
+<h2>Tableau Software | May-August 2017</h2>
+<h3>Software Engineer Intern</h3>
+<h4>VizQL Server Team in Vancouver, British Columbia</h4>
+<ul>
+  <li>Optimized cache speeds by implementing caches using Protocol Buffers.</li>
+  <li>Shipped code that led to an average 92.2% reduction in cache size.</li>
+  <li>Authored unit tests for automated testing.</li>
+  <li><strong>Skills Used:</strong> C++, Visual Studio Debugger, Windows Performance Recorder/Analyzer, Perforce</li>
+</ul>
+<hr style="clear:both;">
+
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2017/12/17/projects/">
+        Projects
+      </a>
+    </h1>
+
+
+    <h2>StampAgain | Digital Rewards Program</h2>
+<ul>
+  <li>A platform that allows a business to launch a rewards program using a smartphone.</li>
+  <li>Customers check on their progress through our app, and businesses use the merchant app to issue stamps, coupons with notifications, and track data.</li>
+  <li>Built using React Native, Firebase, and the Flux Architecture. Available on <a href="https://play.google.com/store/apps/details?id=com.stamptribe29">Google Play</a>, pending approval for Apple App Store.</li>
+</ul>
+<hr style="clear:both;">
+
+<p><img src="../public/stampagain.png"></p>
+
+<h2>NAZE | Discover and Share Cool Products</h2>
+<ul>
+  <li>An app to discover and share products with a Tinder style swipe card interface.</li>
+  <li>Built using React Native, Firebase, and the Flux Architecture. Available on <a href="https://play.google.com/store/apps/details?id=com.want29&amp;hl=en">Google Play</a>, pending approval for Apple App Store.
+<img src="../public/naze.png"></li>
+</ul>
+
+  </div>
+  
 </div>
