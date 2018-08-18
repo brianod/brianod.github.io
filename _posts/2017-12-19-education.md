@@ -18,5 +18,5 @@ title: Education
   * Objected Oriented Programming (C++)
   * Computer Architecture and Design (MIPS)
   * Logic and Computation, Data Structures and Data Management
-  * Foundations of Sequential Programs, Algorithms, Operating Systems
+  * Foundations of Sequential Programs, Algorithms, Operating Systems.
 --->
