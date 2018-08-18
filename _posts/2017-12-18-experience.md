@@ -10,9 +10,11 @@ I have professional experience writing C++ and developing on mobile platforms th
 <h2>Tableau Software | January-April 2018</h2>
 <h3>Software Engineer Intern</h3>
 <h4>Mobile Team in Palo Alto, California</h4>
-* Analyze software requirements, design software components, implement those components in code (with documentation) using various programming languages and tools, review peers' work, and write and execute tests to validate those software components and products. 
-* Learn about data visualization and techniques to present that data to customers in Tableau's software products.
-* **Skills Used:** Javascript, Typescript, Objective-C, Java, C#, and various software development tools and frameworks such as iOS, Android, React Native, jest, Visual Studio, Xamarin
+* Implemented the user interface for the Search feature in the Alpha version of the next generation Tableau Mobile app.
+* Coordinated with UX designers to take the Search feature from wireframes to a fully functional shipped feature.
+* Authored automated tests to ensure the feature functions as expected.
+* Participated in code reviews and fixed various defects in the iOS and Android apps. This often involved increasing test coverage to prevent similar defects from arising in the future.
+* **Skills Used:** Javascript, Typescript, and various software development tools and frameworks such as iOS, Android, React Native, Redux, jest, Visual Studio
 <hr style="clear:both;">
 
 <p style="float: right;"><img src="../public/tableau.png" height="39px" width="192px"></p>
